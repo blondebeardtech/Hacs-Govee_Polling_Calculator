@@ -3,7 +3,7 @@ This calculator was designed to help identify a minimum polling value to input i
 
 Created using Python3
 
-This calculator code can be copied right into replit, or saved as a .py text file and ran in your terminal with the python3 command. 
+This calculator code can be copied right into replit, or saved as a .py text file and ran in linux/mac terminal with the python3 command.  
 
 
 Govee API Documentation can be found at: https://govee-public.s3.amazonaws.com/developer-docs/GoveeDeveloperAPIReference.pdf
