@@ -1,6 +1,7 @@
 # Hacs-Govee_Polling_Calculator
 This calculator was designed to help identify a minimum polling value to input into the HACS Govee Integration for Home Assistant.  Please use at your own risk. 
 
+Created using Python3
 
 Govee API Documentation can be found at: https://govee-public.s3.amazonaws.com/developer-docs/GoveeDeveloperAPIReference.pdf
 
